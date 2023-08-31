@@ -1,0 +1,12 @@
+::placeholder {
+    color: rgba(189, 23, 31, 0.747);
+    font-size: 1.0rem;
+  }
+
+body {
+    background-image: url("vengadores-primer-equipo-infinity-war-655x368.jpg");
+    background-size: 300px,300px;
+    background-repeat: repeat-y;
+    background-position:center top;
+    text-align: center;
+}
